@@ -1,4 +1,4 @@
-👋 Hello, my name is Floottii and I'm a aspiring developer for Lua, Python and C#
+👋 Hello, my name is Floottii and I'm a aspiring developer for Lua, Python and C#. My Lua work will mainly be ROBLOX, C# for windows form.
 
 👷‍♀️ Check out my other depositories for some of my source codes or etc.
 
