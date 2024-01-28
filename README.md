@@ -1,4 +1,4 @@
-👋 Hello, my name is Floottii and I'm a aspiring developer for LuaU, Python, C# and CSS.
+👋 Hello, my name is nkerry and I'm a aspiring developer for LuaU, Python, C# and CSS.
 
 👷‍♀️ Check out my other depositories for some of my source codes or etc.
 
